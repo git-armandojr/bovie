@@ -11225,10 +11225,13 @@ namespace Bovie.Droid
 			public const int notify_panel_notification_icon_bg = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int tooltip_frame_dark = 2131165321;
+			public const int outline_delete_black_24 = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int tooltip_frame_light = 2131165322;
+			public const int tooltip_frame_dark = 2131165322;
+			
+			// aapt resource value: 0x7F07008B
+			public const int tooltip_frame_light = 2131165323;
 			
 			static Drawable()
 			{

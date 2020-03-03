@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie.Android\\Bovie.Android.csproj": {}
+    "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie.Android\\Bovie.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie.Android\\Bovie.Android.csproj": {
+    "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie.Android\\Bovie.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie.Android\\Bovie.Android.csproj",
+        "projectUniqueName": "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie.Android\\Bovie.Android.csproj",
         "projectName": "Bovie.Android",
-        "projectPath": "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie.Android\\Bovie.Android.csproj",
-        "packagesPath": "C:\\Users\\jrmai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie.Android\\obj\\",
+        "projectPath": "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie.Android\\Bovie.Android.csproj",
+        "packagesPath": "C:\\Users\\082150057\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\jrmai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\082150057\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie\\Bovie.csproj": {
-                "projectPath": "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie\\Bovie.csproj"
+              "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie\\Bovie.csproj": {
+                "projectPath": "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie\\Bovie.csproj"
               }
             }
           }
@@ -58,20 +58,21 @@
         }
       }
     },
-    "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie\\Bovie.csproj": {
+    "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie\\Bovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie\\Bovie.csproj",
+        "projectUniqueName": "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie\\Bovie.csproj",
         "projectName": "Bovie",
-        "projectPath": "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie\\Bovie.csproj",
-        "packagesPath": "C:\\Users\\jrmai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrmai\\Desktop\\Bovie\\Bovie\\Bovie\\obj\\",
+        "projectPath": "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie\\Bovie.csproj",
+        "packagesPath": "C:\\Users\\082150057\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\082150057\\Source\\Repos\\bovie\\Bovie\\Bovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jrmai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\082150057\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -125,7 +126,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -3,4 +3,4 @@
 ################################################################################
 
 /.vs
-Bovie/Bovie.Android/Properties/AssemblyInfo.cs
+Bovie/Bovie.Android/Properties/AndroindManifest.xml
